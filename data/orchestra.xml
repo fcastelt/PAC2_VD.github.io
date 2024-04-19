@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="21" class="java.beans.XMLDecoder">
+ <object class="FileNode" id="FileNode0">
+  <void property="children">
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="FileNode" id="FileNode1">
+      <void property="children">
+       <object class="java.util.Vector">
+        <void method="add">
+         <object class="FileNode" id="FileNode2">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>153</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode2"/>
+              </void>
+              <void property="text">
+               <string>Jorge Pozas Tarapiella</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>153</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode2"/>
+              </void>
+              <void property="text">
+               <string>Sebastian Koloski</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>153</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode2"/>
+              </void>
+              <void property="text">
+               <string>David Bucknall</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>153</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode2"/>
+              </void>
+              <void property="text">
+               <string>Màrius Díaz Lleal</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object class="java.awt.Color">
+            <int>153</int>
+            <int>255</int>
+            <int>153</int>
+            <int>255</int>
+           </object>
+          </void>
+          <void property="parent">
+           <object idref="FileNode1"/>
+          </void>
+          <void property="text">
+           <string>Violoncel</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="FileNode" id="FileNode3">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Ludwig Müller</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Jennifer Alicia Moreau Harlow</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Carlota Amargós Rubio</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Victor Ambroa Martín</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Santi Juan Martín</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Joan Espina Dea</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Krzysztof Wisniewski</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Elena Rey Rodríguez</string>
+              </void>
+              <void property="textColor">
+               <object class="java.awt.Color">
+                <int>51</int>
+                <int>51</int>
+                <int>51</int>
+                <int>255</int>
+               </object>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Sara Bitlloch</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Barna Kobori</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Cristian Benito Elvira</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Judit Bofarull Figuerola</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>José Enrique Tarrasó Rovira</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Núria Bonet Majó</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode3"/>
+              </void>
+              <void property="text">
+               <string>Marc Oliu Nieto</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object class="java.awt.Color">
+            <int>204</int>
+            <int>255</int>
+            <int>153</int>
+            <int>255</int>
+           </object>
+          </void>
+          <void property="parent">
+           <object idref="FileNode1"/>
+          </void>
+          <void property="text">
+           <string>Violí</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="FileNode" id="FileNode4">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>153</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode4"/>
+              </void>
+              <void property="text">
+               <string>Harek Wiersma</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>153</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode4"/>
+              </void>
+              <void property="text">
+               <string>Frano Kakarigi</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>153</int>
+                <int>255</int>
+                <int>153</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode4"/>
+              </void>
+              <void property="text">
+               <string>Toni Garcia</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object class="java.awt.Color">
+            <int>153</int>
+            <int>255</int>
+            <int>153</int>
+            <int>255</int>
+           </object>
+          </void>
+          <void property="parent">
+           <object idref="FileNode1"/>
+          </void>
+          <void property="text">
+           <string>Contrabaix</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="FileNode" id="FileNode5">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>102</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode5"/>
+              </void>
+              <void property="text">
+               <string>Alejandro Garrido Porras</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>102</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode5"/>
+              </void>
+              <void property="text">
+               <string>Cristina Pozas Tarapiella</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>102</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode5"/>
+              </void>
+              <void property="text">
+               <string>Fulgencio Sandoval García</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>255</int>
+                <int>102</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode5"/>
+              </void>
+              <void property="text">
+               <string>Eva Martín Mateu</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color" id="Color0">
+                <int>204</int>
+                <int>255</int>
+                <int>102</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode5"/>
+              </void>
+              <void property="text">
+               <string>Miquel Cordoba Galdo</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object idref="Color0"/>
+          </void>
+          <void property="parent">
+           <object idref="FileNode1"/>
+          </void>
+          <void property="text">
+           <string>Viola</string>
+          </void>
+         </object>
+        </void>
+       </object>
+      </void>
+      <void property="fillColor">
+       <object class="java.awt.Color">
+        <int>204</int>
+        <int>255</int>
+        <int>204</int>
+        <int>255</int>
+       </object>
+      </void>
+      <void property="parent">
+       <object idref="FileNode0"/>
+      </void>
+      <void property="text">
+       <string>Corda</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="FileNode" id="FileNode6">
+      <void property="children">
+       <object class="java.util.Vector">
+        <void method="add">
+         <object class="FileNode" id="FileNode7">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>102</int>
+                <int>255</int>
+                <int>255</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode7"/>
+              </void>
+              <void property="text">
+               <string>Joan Enric Lluna Valero</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>102</int>
+                <int>255</int>
+                <int>255</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode7"/>
+              </void>
+              <void property="text">
+               <string>Laura Ruiz</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object class="java.awt.Color">
+            <int>102</int>
+            <int>255</int>
+            <int>255</int>
+            <int>255</int>
+           </object>
+          </void>
+          <void property="parent">
+           <object idref="FileNode6"/>
+          </void>
+          <void property="text">
+           <string>Clarinet</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="FileNode" id="FileNode8">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>51</int>
+                <int>204</int>
+                <int>255</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode8"/>
+              </void>
+              <void property="text">
+               <string>Júlia Gallego Ronda</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>51</int>
+                <int>204</int>
+                <int>255</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode8"/>
+              </void>
+              <void property="text">
+               <string>Álvaro Octavío Díaz</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object class="java.awt.Color">
+            <int>51</int>
+            <int>204</int>
+            <int>255</int>
+            <int>255</int>
+           </object>
+          </void>
+          <void property="parent">
+           <object idref="FileNode6"/>
+          </void>
+          <void property="text">
+           <string>Flauta</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="FileNode" id="FileNode9">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>0</int>
+                <int>204</int>
+                <int>204</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode9"/>
+              </void>
+              <void property="text">
+               <string>David Tomàs Realp</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>0</int>
+                <int>204</int>
+                <int>204</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode9"/>
+              </void>
+              <void property="text">
+               <string>Javier Aragó Muñoz</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>0</int>
+                <int>204</int>
+                <int>204</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode9"/>
+              </void>
+              <void property="text">
+               <string>Higinio Arrue</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object class="java.awt.Color">
+            <int>0</int>
+            <int>204</int>
+            <int>204</int>
+            <int>255</int>
+           </object>
+          </void>
+          <void property="parent">
+           <object idref="FileNode6"/>
+          </void>
+          <void property="text">
+           <string>Fagot</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="FileNode" id="FileNode10">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>102</int>
+                <int>255</int>
+                <int>255</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode10"/>
+              </void>
+              <void property="text">
+               <string>José Manuel González Monteagudo</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>153</int>
+                <int>255</int>
+                <int>255</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode10"/>
+              </void>
+              <void property="text">
+               <string>Manuel Angulo Cruz</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object class="java.awt.Color">
+            <int>153</int>
+            <int>255</int>
+            <int>255</int>
+            <int>255</int>
+           </object>
+          </void>
+          <void property="parent">
+           <object idref="FileNode6"/>
+          </void>
+          <void property="text">
+           <string>Oboè</string>
+          </void>
+         </object>
+        </void>
+       </object>
+      </void>
+      <void property="fillColor">
+       <object class="java.awt.Color">
+        <int>204</int>
+        <int>255</int>
+        <int>255</int>
+        <int>255</int>
+       </object>
+      </void>
+      <void property="parent">
+       <object idref="FileNode0"/>
+      </void>
+      <void property="text">
+       <string>Vent</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="FileNode" id="FileNode11">
+      <void property="children">
+       <object class="java.util.Vector">
+        <void method="add">
+         <object class="FileNode" id="FileNode12">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>255</int>
+                <int>102</int>
+                <int>102</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode12"/>
+              </void>
+              <void property="text">
+               <string>Raúl Camarasa Picazo</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>255</int>
+                <int>102</int>
+                <int>102</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode12"/>
+              </void>
+              <void property="text">
+               <string>Tristan Fry</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object class="java.awt.Color">
+            <int>255</int>
+            <int>102</int>
+            <int>102</int>
+            <int>255</int>
+           </object>
+          </void>
+          <void property="parent">
+           <object idref="FileNode11"/>
+          </void>
+          <void property="text">
+           <string>Tímpani</string>
+          </void>
+          <void property="textColor">
+           <object class="java.awt.Color">
+            <int>51</int>
+            <int>51</int>
+            <int>51</int>
+            <int>255</int>
+           </object>
+          </void>
+         </object>
+        </void>
+       </object>
+      </void>
+      <void property="fillColor">
+       <object class="java.awt.Color">
+        <int>255</int>
+        <int>204</int>
+        <int>204</int>
+        <int>255</int>
+       </object>
+      </void>
+      <void property="parent">
+       <object idref="FileNode0"/>
+      </void>
+      <void property="text">
+       <string>Percussió</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="FileNode" id="FileNode13">
+      <void property="children">
+       <object class="java.util.Vector">
+        <void method="add">
+         <object class="FileNode" id="FileNode14">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>255</int>
+                <int>255</int>
+                <int>204</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode14"/>
+              </void>
+              <void property="text">
+               <string>New Child</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object class="java.awt.Color">
+            <int>255</int>
+            <int>255</int>
+            <int>204</int>
+            <int>255</int>
+           </object>
+          </void>
+          <void property="parent">
+           <object idref="FileNode13"/>
+          </void>
+          <void property="text">
+           <string>Trombó</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="FileNode" id="FileNode15">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>204</int>
+                <int>0</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode15"/>
+              </void>
+              <void property="text">
+               <string>David Rosell Esterelles</string>
+              </void>
+             </object>
+            </void>
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>204</int>
+                <int>204</int>
+                <int>0</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode15"/>
+              </void>
+              <void property="text">
+               <string>Maria Rubio Navarro</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object class="java.awt.Color">
+            <int>204</int>
+            <int>204</int>
+            <int>0</int>
+            <int>255</int>
+           </object>
+          </void>
+          <void property="parent">
+           <object idref="FileNode13"/>
+          </void>
+          <void property="text">
+           <string>Trompa</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="FileNode" id="FileNode16">
+          <void property="children">
+           <object class="java.util.Vector">
+            <void method="add">
+             <object class="FileNode">
+              <void property="children">
+               <object class="java.util.Vector"/>
+              </void>
+              <void property="fillColor">
+               <object class="java.awt.Color">
+                <int>255</int>
+                <int>255</int>
+                <int>51</int>
+                <int>255</int>
+               </object>
+              </void>
+              <void property="parent">
+               <object idref="FileNode16"/>
+              </void>
+              <void property="text">
+               <string>New Child</string>
+              </void>
+             </object>
+            </void>
+           </object>
+          </void>
+          <void property="fillColor">
+           <object class="java.awt.Color">
+            <int>255</int>
+            <int>255</int>
+            <int>51</int>
+            <int>255</int>
+           </object>
+          </void>
+          <void property="parent">
+           <object idref="FileNode13"/>
+          </void>
+          <void property="text">
+           <string>Trompeta</string>
+          </void>
+         </object>
+        </void>
+       </object>
+      </void>
+      <void property="fillColor">
+       <object class="java.awt.Color">
+        <int>255</int>
+        <int>255</int>
+        <int>153</int>
+        <int>255</int>
+       </object>
+      </void>
+      <void property="parent">
+       <object idref="FileNode0"/>
+      </void>
+      <void property="text">
+       <string>Metalls</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="fillColor">
+   <object class="java.awt.Color">
+    <int>255</int>
+    <int>204</int>
+    <int>255</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void property="hint">
+   <string>Gianandrea Noseda</string>
+  </void>
+  <void property="text">
+   <string>Director</string>
+  </void>
+ </object>
+</java>
