@@ -11,4 +11,4 @@
 
 ## Hyperbolic Tree
 
-![Stacked Bars](/Hyperbolic Tree.png)
+![Stacked Bars](/HyperbolicTree.png)
