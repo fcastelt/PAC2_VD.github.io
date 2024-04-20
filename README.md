@@ -5,9 +5,9 @@
 
 This chart displays the top 10 scorers of the Premier League Season 2022-2023.
 
-![Stacked Bars](/Stacked_bars.png)
+![Stacked Bars](/images/Stacked_bars.png)
 
-- **Data:** (/data/TopScorersPL22_23.csv)
+- **Data:** [Top Scorers Data](/data/TopScorersPL22_23.csv)
 - **Source:** WhoScored. [Link](https://www.whoscored.com/Statistics)
 
 ---
@@ -19,9 +19,9 @@ This visualization illustrates the flow of Ukrainian refugees from Ukraine to Eu
 
 Explore the interactive representation [here](https://app.flowmap.city/public/5cb30e27-1ffd-4bff-8b4a-fe588a95a047).
 
-![FlowMap](/FlowMap.png)
+![FlowMap](/images/FlowMap.png)
 
-- **Data:** (/data/ukranian_refugees_data.csv)
+- **Data:** [Ukrainian Refugees Data](/data/ukranian_refugees_data.csv)
 - **Source:** Office of the High Commissioner for Refugees (UNHCR). [Link](https://data.unhcr.org/en/situations/ukraine)
 
 ---
@@ -33,9 +33,9 @@ This visualization showcases the structure and names of the members of the Orque
 
 To fully explore it, download the free software and import the data.
 
-![HyperbolicTree](/HyperbolicTree.png)
+![HyperbolicTree](/images/HyperbolicTree.png)
 
-- **Data:** (/data/orchestra.xml)
-- **Tree:** (/images/orquestra_tree.htz)
+- **Data:** [Orchestra Data](/data/orchestra.xml)
+- **Tree:** [Export the tree](/images/orquestra_tree.htz)
 - **Source:** [Orquestra de Cadaqués](http://www.orquestradecadaques.com/ca/integrants)
 
