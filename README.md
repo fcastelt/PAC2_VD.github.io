@@ -15,7 +15,7 @@ This chart displays the top 10 scorers of the Premier League Season 2022-2023.
 ## Flow Map
 ### Ukrainian Refugees Migration Map
 
-This visualization illustrates the flow of Ukrainian refugees from Ukraine to European countries since the full-scale invasion of Ukraine on the 22nd of February 2022. Data was collected on the 7th of April 2024.
+This visualization illustrates the flow of Ukrainian refugees from Ukraine to other countries since the full-scale invasion of Ukraine on the 22nd of February 2022. Data was collected on the 7th of April 2024.
 
 Explore the interactive representation [here](https://app.flowmap.city/public/5cb30e27-1ffd-4bff-8b4a-fe588a95a047).
 
