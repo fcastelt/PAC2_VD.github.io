@@ -1,4 +1,4 @@
-# PAC2: Tres tècniques de visualtizació de dades
+# PAC2: Tres tècniques de visualització de dades
 
 ## Stacked Bar Graphs
 ### Top Scorers in Premier League. Season 2022-2023
