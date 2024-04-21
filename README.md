@@ -8,7 +8,7 @@ This chart displays the top 10 scorers of the Premier League Season 2022-2023.
 ![Stacked Bars](images/Stacked_bars.png)
 
 - **Data:** [Top Scorers Data](/data/TopScorersPL22_23.csv)
-- **Source:** WhoScored. [Link](https://www.whoscored.com/Statistics)
+- **Source:** Whoscored.com [Link](https://www.whoscored.com/Statistics)
 
 ---
 
